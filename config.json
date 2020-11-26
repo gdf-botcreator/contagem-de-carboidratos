@@ -1,8 +1,8 @@
 {
-	"glicemia": "você mediu a glicemia? (S para sim e N para não)",
-	"DX": "coloque aqui o valor da sua glicemia",
-	"Glicemia_Ideal": "Coloque aqui a glicemia que você quer que tenha! (Ex: 100)",
-	"FS": "coloque aqui seu fator sensibilidade",
-	"carboidratos": "coloque aqui o total de carboidratos do seu alimento",
-	"unidade_por_grama": "coloque aqui o seu valor de unidade por grama (Ex> 25 * 8)"
+	"glicemia": "você mediu a glicemia? (S)",
+	"DX": "54",
+	"Glicemia_Ideal": "100",
+	"FS": "43",
+	"carboidratos": "1955",
+	"unidade_por_grama": "43*9"
 }
